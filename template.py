@@ -25,6 +25,9 @@ list_of_files = [
                  f'{project_name}/entity/config_entity.py',
                  f'{project_name}/entity/artifact_entity.py',
 
+                 # exception
+                 f'{project_name}/exception/__init__.py'
+
                  #logger
                  f'{project_name}/logger/__init__.py',
 
